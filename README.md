@@ -19,7 +19,7 @@ This is a javascript function that takes an array of numbers as input and return
 ## Installation
 You use git clone to be able to download the documents in the GitHub
 
-## Istallation Requirements
+## Installation Requirements
 Git
 
 ### Installation Instructions
